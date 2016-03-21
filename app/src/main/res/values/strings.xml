@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+<string name="app_title">Marvel Characters</string>
+    <string name="search_label">Search</string>
+    <string name="search_hint">Enter Character Name</string>
+    <string name="description">Description</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="stories">Stories</string>
+    <string name="events">Events</string>
+    <string name="related_links">Related Links</string>
+</resources>
